@@ -1,0 +1,38 @@
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\bin\Debug\Compression Tool.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.Form1.resources
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.exe
+C:\Users\User\documents\visual studio 2017\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\bin\Debug\Compression Tool.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe.config
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\bin\Debug\Compression Tool.pdb
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.CompressionForm.resources
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.Properties.Resources.resources
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression Tool.exe
+C:\Users\HP\Desktop\DNAtix\Compression Tool\Compression Tool\obj\Debug\Compression Tool.pdb
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe.config
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\bin\Debug\Compression Tool.exe
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\bin\Debug\Compression Tool.pdb
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.CompressionForm.resources
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression_Tool.Properties.Resources.resources
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression Tool.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression Tool.exe
+C:\Users\HP\Desktop\Compression Tool\Compression Tool\obj\Debug\Compression Tool.pdb
